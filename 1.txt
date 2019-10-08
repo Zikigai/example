@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-test1new2
+>>>>>>> new1
 =======
 test1txt
 >>>>>>> new1
